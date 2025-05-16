@@ -6,6 +6,8 @@ int main() {
 	
 	printf("hihi 안녕하시오2\r\n");
 
+	printf("VSCODE change\r\n");
+
 	return 0;
 	
 }
