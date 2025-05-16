@@ -7,6 +7,8 @@ int main() {
 	printf("hihi 안녕하시오2\r\n");
 
 	printf("feature-a edit\r\n");
+	
+	printf("feature-a edit commit 2\r\n");
 	return 0;
 	
 }
