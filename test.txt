@@ -29,6 +29,12 @@ zzzzz
 
 하onononon
 
+<<<<<<< HEAD
 하나하zzzzzzz
 gitchange
+=======
+하나하zzzzzzzz
+충돌 테스트
+
+>>>>>>> e0c280074291b206ac5948ac7309eae6df2ddb12
 
