@@ -1,4 +1,4 @@
-ehco "start git uploader"
+echo "start git uploader"
 
 
 git pull
