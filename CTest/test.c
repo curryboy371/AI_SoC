@@ -12,6 +12,7 @@ int main() {
 	printf("origin change\r\n");
 	
 	// test
+	printf("git change");
 
 	return 0;
 	
