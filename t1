@@ -1,0 +1,15 @@
+
+arg1=${1}
+arg2=${2}
+
+
+
+echo "Hello World"
+
+MyName="Chan"
+MyNumber="010-1111-9999"
+
+MyAddr="Korea"
+
+
+echo "${MyName} $MyNumber $MyAddr ${arg1} ${1} ${0} $$"
